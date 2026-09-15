@@ -14,32 +14,23 @@ Please choose the one that fits your needs the most.
 If you encounter any issues while installing these eggs, please head to our [**discord server**](https://discord.dj-dj.be) for further assistance!
 
 ### Requirements
-It's recommended to provide at least `1GB` of **Memory/RAM** and `5GB` of **disk space** for Open Ticket to work correctly.
+It's recommended to provide at least `1GB` of **Memory/RAM** and `5GB` of **disk space** for Open Ticket to work correctly for any server size.
 
 ### Egg Variants
 [**`openticket-egg-main.json` (Recommended)**](openticket-egg-main.json)
 - This egg will use the `main` branch of Open Ticket.
+
+[**`openticket-egg-v4.2.2.json`**](openticket-egg-v4.2.2.json)
+- This egg will always use Open Ticket `v4.2.2`. Open Ticket updates will not have an effect on this egg.
+
+[**`openticket-egg-v4.2.1.json`**](openticket-egg-v4.2.1.json)
+- This egg will always use Open Ticket `v4.2.1`. Open Ticket updates will not have an effect on this egg.
 
 [**`openticket-egg-v4.2.0.json`**](openticket-egg-v4.2.0.json)
 - This egg will always use Open Ticket `v4.2.0`. Open Ticket updates will not have an effect on this egg.
 
 [**`openticket-egg-v4.1.3.json`**](openticket-egg-v4.1.3.json)
 - This egg will always use Open Ticket `v4.1.3`. Open Ticket updates will not have an effect on this egg.
-
-[**`openticket-egg-v4.1.2.json`**](openticket-egg-v4.1.2.json)
-- This egg will always use Open Ticket `v4.1.2`. Open Ticket updates will not have an effect on this egg.
-
-[**`openticket-egg-v4.1.1.json`**](openticket-egg-v4.1.1.json)
-- This egg will always use Open Ticket `v4.1.1`. Open Ticket updates will not have an effect on this egg.
-
-[**`openticket-egg-v4.1.0.json`**](openticket-egg-v4.1.0.json)
-- This egg will always use Open Ticket `v4.1.0`. Open Ticket updates will not have an effect on this egg.
-
-[**`openticket-egg-v4.0.7.json`**](openticket-egg-v4.0.7.json)
-- This egg will always use Open Ticket `v4.0.7`. Open Ticket updates will not have an effect on this egg.
-
-[**`openticket-egg-v3.5.9.json`**](openticket-egg-v3.5.9.json)
-- This egg will always use Open Ticket `v3.5.9`. Open Ticket updates will not have an effect on this egg.
 
 [**`openticket-egg-dev.json` (Not Recommended)**](openticket-egg-dev.json)
 - This egg will use the `dev` branch of Open Ticket.
